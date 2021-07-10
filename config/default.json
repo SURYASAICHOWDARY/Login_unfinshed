@@ -1,0 +1,4 @@
+{
+    "mongoURI": "<enter your mongodb atlas URI>",
+    "jwtSecret": "this is a secret message"
+}
